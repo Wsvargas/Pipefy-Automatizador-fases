@@ -1,0 +1,32 @@
+[
+  {
+    "fase": "Z1 Agendado para instalar",
+    "card_id": "1206899493",
+    "titulo": "ASSA",
+    "chasis": "LZWADAGA7SF203719",
+    "fecha_pipefy": "2025-09-06",
+    "fecha_sql": "2025-09-06 10:36:50",
+    "dif_dias": 0,
+    "fecha_ejecucion": "2025-09-08 09:03:24"
+  },
+  {
+    "fase": "Z1 Agendado para instalar",
+    "card_id": "1208167652",
+    "titulo": "Induauto",
+    "chasis": "LZWADAGA6SF202058",
+    "fecha_pipefy": "2025-09-05",
+    "fecha_sql": "2025-09-06 10:36:33",
+    "dif_dias": 1,
+    "fecha_ejecucion": "2025-09-08 09:03:24"
+  },
+  {
+    "fase": "Z1 Agendado para instalar",
+    "card_id": "1208175328",
+    "titulo": "Induauto",
+    "chasis": "LSFVM3BD4TA044974",
+    "fecha_pipefy": "2025-09-05",
+    "fecha_sql": "2025-09-06 09:33:12",
+    "dif_dias": 1,
+    "fecha_ejecucion": "2025-09-08 09:03:24"
+  }
+]
